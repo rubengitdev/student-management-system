@@ -32,4 +32,4 @@ Thumbs.db
 *.temp
 
 # Project Specification
-spec.md
+echo "spec.md" >> .gitignore
